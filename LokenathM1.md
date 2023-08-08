@@ -1,5 +1,7 @@
-# Lokenath Mukherjee
+<h1 align="center">Hi 👋, I'm Lokenath</h1>
 As an aspiring data analyst, I am passionate about uncovering meaningful insights from complex datasets. With a strong foundation in business computation and data visualization, Working on transforming raw information into actionable solutions that drive informed decision-making.
+
+![](https://komarev.com/ghpvc/?username=your-github-LokenatM1&style=flat-square)
 
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/lokenathmukherj2)
