@@ -3,9 +3,9 @@ As an aspiring data analyst, I am passionate about uncovering meaningful insight
 
 </p>
 
-[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)]()   
-[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()      
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)]()  
+[![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=Power-BI&logoColor=black)]()
 [![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)]()
 [![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)]()
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/lokenathmukherj2)
