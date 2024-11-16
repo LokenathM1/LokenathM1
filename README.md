@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokenath</h1>
-As an aspiring data analyst, I am passionate about uncovering meaningful insights from complex datasets. With a strong foundation in business computation and data visualization, I am working on transforming raw information into actionable solutions that drive informed decision-making.
+As an microsoft certified analyst, I am passionate about uncovering meaningful insights from complex datasets. With a strong foundation in business computation and data visualization, I am working on transforming raw information into actionable solutions that drive informed decision-making.
 
 </p>
 
